@@ -32,7 +32,7 @@ Unity와 C#을 기반으로 독창적인 게임을 만드는 것을 즐깁니다
 - 큐브 모델로 픽셀 표현, 타이머/조명/텍스처 연동
 - 회전 애니메이션 및 시점 전환 구현
 
-### 🧠 [애니메이션 Face Detection 프로그램](https://github.com/LimJuHyung1/ComputreVision/tree/master)
+### 🧠 [애니메이션 Face Detection 프로그램](https://github.com/LimJuHyung1/ComputreVision/tree/main)
 - OpenCV + Tkinter 기반 GUI 영상처리 도구
 - 재생 중 프레임에 Threshold, Geotrans, Contour 처리 가능
 - DNN 모델을 활용한 얼굴 인식 및 신뢰도 시각화 구현
