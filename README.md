@@ -11,7 +11,7 @@ Unity와 C#을 기반으로 독창적인 게임을 만드는 것을 즐깁니다
 
 ## 🎮 대표 프로젝트
 
-### 🎯 [The Last Reunion (Steam 출시작)](https://store.steampowered.com/app/3600510/The_Last_Reunion/)
+### 🎯 [The Last Reunion (Steam 출시작)](https://github.com/LimJuHyung1/TheLastReunion)
 - Unity 기반 추리 게임
 - OpenAI API 기반 대화 시스템, 다중 엔딩 구조 설계
 - UI 인터랙션 및 증거 추론 시스템 구현  
