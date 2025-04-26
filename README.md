@@ -6,8 +6,8 @@ Unity와 C#을 기반으로 독창적인 게임을 만드는 것을 즐깁니다
 - Unity, C#
 - OpenGL
 - OpenCV
-- Photon (멀티플레이 경험)
-- OpenAI API (대화형 NPC 구현)
+- Photon Pun2
+- OpenAI API
 
 ## 🎮 대표 프로젝트
 
