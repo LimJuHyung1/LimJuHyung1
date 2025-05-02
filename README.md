@@ -37,8 +37,10 @@ Unity와 C#을 기반으로 독창적인 게임을 만드는 것을 즐깁니다
 - 큐브 모델로 픽셀 표현, 타이머/조명/텍스처 연동
 - 회전 애니메이션 및 시점 전환 구현
 
-## 📚 알고리즘 학습
-- [Baekjoon Online Judge (BOJ) 프로필](https://solved.ac/profile/ekzmtpdlqj)
+## 📚 백
+- 🔗 [백준 프로필 바로가기](https://www.acmicpc.net/user/ekzmtpdlqj)
+- ![Baekjoon](https://mazassumnida.wtf/api/v2/generate_badge?boj=ekzmtpdlqj)
+
 
 ## 📫 Contact
 - 📧 Email: lim00050742@gmail.com  
