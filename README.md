@@ -17,7 +17,9 @@ Unity와 C#을 기반으로 독창적인 게임을 만드는 것을 즐깁니다
 - Unity 기반 추리 게임
 - OpenAI API 기반 대화 시스템, 다중 엔딩 구조 설계
 - UI 인터랙션 및 증거 추론 시스템 구현
-- 🎥 [Steam](https://store.steampowered.com/app/3600510/The_Last_Reunion/)
+- 🎮 [itch.io](https://jusangjusang.itch.io/the-last-reunion)  
+- 🎥 [Steam](https://store.steampowered.com/app/3600510/The_Last_Reunion/)  
+- 📺 [YouTube 트레일러](https://www.youtube.com/watch?v=K4tvlBzPgS4)
 
 ### 🕵️‍♂️ [Catastrophe (진행 중)](https://github.com/LimJuHyung1/Catastrophe)
 - 검사 시점의 인터랙티브 수사 & 재판 게임
