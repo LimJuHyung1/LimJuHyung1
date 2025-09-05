@@ -21,7 +21,7 @@ Unity와 C#을 기반으로 독창적인 게임을 만드는 것을 즐깁니다
 - 🎥 [Steam](https://store.steampowered.com/app/3600510/The_Last_Reunion/)  
 - 📺 [YouTube 트레일러](https://www.youtube.com/watch?v=K4tvlBzPgS4)
 
-### 🕵️‍♂️ [Catastrophe (진행 중)](https://github.com/LimJuHyung1/Catastrophe)
+### 🕵️‍♂️ [Prosecutor (진행 중)](https://github.com/LimJuHyung1/Prosecutor)
 - 검사 시점의 인터랙티브 수사 & 재판 게임
 - OpenAI API 및 ElevenLabs AI 음성 적용
 - 증거 분기, 법정 시스템, NPC 대화 설계 중
